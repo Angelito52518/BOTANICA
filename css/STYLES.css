@@ -46,7 +46,7 @@ header {
 
 header h1 {
   font-size: 1.1em;
-  font-family: 'Lobster two', cursive;
+  font-family: 'Lobster two';
   color: BLACK;
   margin-left: 15px;
 }
@@ -110,7 +110,7 @@ main .capitulo {
 
 main .capitulo h2 {
   color: white;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Bebas Neue', serif;
 }
 
 main .capitulo figure img {
